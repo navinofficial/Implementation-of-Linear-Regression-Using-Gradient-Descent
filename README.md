@@ -57,6 +57,7 @@ print(f"Predicted value: {pre}")
 ![image](https://github.com/user-attachments/assets/1f79abe3-3333-4469-af3c-a9e54b6e1c4b)
 ### X nd Y values:
 ![image](https://github.com/user-attachments/assets/580d8292-34ef-41dc-8602-008cd8a96d3d)
+
 ![image](https://github.com/user-attachments/assets/7e546b05-c01f-4c32-a055-00223e330556)
 ### Predicted Value:
 ![image](https://github.com/user-attachments/assets/bc2a9558-c641-47d6-8b8a-09c2938f755b)
